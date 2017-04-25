@@ -1,0 +1,10 @@
+Cyprian        | 2017-04-24 |   7   |   1   | MOGADISHU           
+Karolina       | 2017-04-13 |  10   |   1   | MALE                
+Małgosia       | 2017-04-24 |  12   |   1   | ASMARA              
+Julia          | 2017-04-24 |  15   |   1   | BOGOTA              
+Kasia          | 2017-04-24 |  18   |   1   | ASMARA              
+Inez           | 2017-04-24 |  24   |   1   | PRAGUE              
+Joasia         | 2017-04-24 |  25   |   1   | SARAJEVO            
+Ania           | 2017-04-24 |  31   |   1   | RABAT               
+Milena         | 2017-04-24 |  35   |   1   | LUSAKA              
+Zosia          | 2017-04-24 |  48   |   1   | WASHINGTON          
